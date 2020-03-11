@@ -2,7 +2,7 @@
 OpenGApps pico for Magisk(@topjohnwu) users
 
 
-# For Chinese Users/中文介绍
+# For Chinese(Mainland China) Users/简体中文介绍
 欢迎使用GMS_Magisk项目及其下属的所有文件包，它们基于OpenGApps为各个Android系统版本所提供的Pico版GApps安装包
 
 安装方式非常简单，只需要在Magisk Manager下安装或者进入自己的支持第三方ROM包的Recovery下安装即可
@@ -22,7 +22,7 @@ OpenGApps pico for Magisk(@topjohnwu) users
 最后一个注意事项：已知的所有Bug都会在Issues中写出来，如果你对于这些Bug非常介意，那么你可以左上角查看其他项目了，因为这些Bug通常都是我无法解决的
 
 
-# For Foreign Users/多国文本介绍
+# For Foreign Users/多国(地区）文本介绍
 
 For English Users
 
@@ -35,3 +35,8 @@ Es tut uns sehr leid, aber diese Module sind nicht für Sie. Bitte suchen Sie na
 For Francais Users
 
 Je suis vraiment désolé, mais ces modules ne sont pas pour vous. Recherchez d'autres projets qui vous conviennent. Par exemple, OpenGApps peut avoir une meilleure solution.
+
+For Hong Kong(China)/Macau(China)/Taiwan(China) Users
+
+我們非常抱歉，但是我們並不確定這些模塊是否適用於您的所在地區，這些說明通常適用於大陸用戶，我們並不能確定是否能够讓位於港澳臺地區的您理解，敬請見諒！
+
