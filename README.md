@@ -38,5 +38,5 @@ Je suis vraiment désolé, mais ces modules ne sont pas pour vous. Recherchez d'
 
 For Hong Kong(China)/Macau(China)/Taiwan(China) Users
 
-我們非常抱歉，但是我們並不確定這些模塊是否適用於您的所在地區，這些說明通常適用於大陸用戶，我們並不能確定是否能够讓位於港澳臺地區的您理解，敬請見諒！
+我們非常抱歉，但是我們並不確定這些模塊是否適用於你的所在地區，這些說明通常適用於大陸用戶，我們並不能確定是否能够讓位於港澳臺地區的你理解，敬請見諒！
 
