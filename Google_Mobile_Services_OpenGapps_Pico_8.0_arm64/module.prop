@@ -1,0 +1,6 @@
+id=gms_magisk
+name=Google Mobile Services-OpenGapps_Pico
+version=2020.01.09
+versionCode=202001090
+author=Coolapk(@Sun思晴);Coolapk(@落依_LuoyiLY);Github(@Sunshine018)
+description=进一步精简OpenGapps-Pico中的软件包数量，仅留下最基本的四个服务，并且尝试把它们打包成Magisk模块。注意：适用版本和架构不同，这个模块适用于Android8.0，Arm64的设备。
