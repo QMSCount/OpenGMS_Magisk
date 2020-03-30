@@ -1,4 +1,4 @@
-# GMS_Magisk
+# OpenGMS_Magisk
 OpenGApps pico for Magisk(@topjohnwu) users
 
 
