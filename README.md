@@ -24,23 +24,23 @@ OpenGApps pico for Magisk(@topjohnwu) users
 
 # For Other Users/多国(地区)文本介绍
 
-For English Users
+For English(the U.K,the U.S.A,and more) Users
 
 I am very sorry, but these modules are not for you. Please look for other projects that are suitable for you. For example, OpenGApps may have a better solutions.
 
-For Destuch Users
+For Destuch(Germany/Destuchland) Users
 
 Es tut uns sehr leid, aber diese Module sind nicht für Sie. Bitte suchen Sie nach anderen Projekten, die für Sie geeignet sind. Beispielsweise hat OpenGApps möglicherweise eine bessere Lösung.
 
-For Francais Users
+For Francais(France/France) Users
 
 Je suis vraiment désolé, mais ces modules ne sont pas pour vous. Recherchez d'autres projets qui vous conviennent. Par exemple, OpenGApps peut avoir une meilleure solution.
 
-For Hong Kong(China)/Macau(China)/Taiwan(China) Users
+For Traditional Chinese[繁體中文,Hong Kong(China)/Macau(China)/Taiwan(China)] Users
 
 我們非常抱歉，但是我們並不確定這些模塊是否適用於你的所在地區，這些說明通常適用於大陸用戶，我們並不能確定是否能够讓位於港澳臺地區的你理解，敬請見諒！
 
 
 # License/许可证
 
-GNU General Public License V3.0/GNU 通用公共许可证 版本3.0
+GNU General Public License V3.0/GNU 通用公共许可证 版本3.0/GNU 通用公共許可證 版本3.0
