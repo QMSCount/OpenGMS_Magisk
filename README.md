@@ -22,7 +22,7 @@ OpenGApps pico for Magisk(@topjohnwu) users
 最后一个注意事项：已知的所有Bug都会在Issues中写出来，如果你对于这些Bug非常介意，那么你可以左上角查看其他项目了，因为这些Bug通常都是我无法解决的
 
 
-# For Foreign Users/多国(地区)文本介绍
+# For Other Users/多国(地区)文本介绍
 
 For English Users
 
