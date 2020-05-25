@@ -28,7 +28,7 @@ For English(the U.K,the U.S.A,and more) Users
 
 I am very sorry, but these modules are not for you. Please look for other projects that are suitable for you. For example, OpenGApps may have a better solutions.
 
-For Destuch(Germany/Destuchland) Users
+For Deutsch(Germany/Destuchland) Users
 
 Es tut uns sehr leid, aber diese Module sind nicht für Sie. Bitte suchen Sie nach anderen Projekten, die für Sie geeignet sind. Beispielsweise hat OpenGApps möglicherweise eine bessere Lösung.
 
